@@ -1,0 +1,52 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-image: url("https://img.freepik.com/vetores-gratis/fundo-papel-de-parede-de-fundo-do-telefone-com-padrao-de-moeda-de-ouro-ilustracao-de-financiamento-de-vetor-de-dinheiro_53876-144613.jpg?w=740&t=st=1663280910~exp=1663281510~hmac=dc24dcd9faec74e61af1b18fdec7b5a961f7e9b5fc5a581480dd8719e5dcef38");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: auto;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #0a0a0a;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #0a0a0a;
+    margin-top: 5px;
+  }
+  
+  input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+  }
+  
+  label {
+    color: black;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #cd5858;
+    stroke: #dd1d97;
+    transform: scale(1.1);
+  }
+  
+  h2 {
+    color: #0a0a0a;
+    font-size: 30px;
+  }
+  
